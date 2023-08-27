@@ -19,6 +19,7 @@ https://tasklist-ab.netlify.app
 ### 1.Installation:
 
   - Clone the repository to your local machine using git clone.
+    
   - Navigate to the project directory using the terminal.
    
 ### 2. Setup:
@@ -28,16 +29,19 @@ https://tasklist-ab.netlify.app
 ### 3. Run the Application:
 
   -Execute npm start to start the development server.
+  
   -Open your web browser and go to http://localhost:3000 to access Taskmate.
   
 ### 4. Adding Tasks:
 
   -Use the input field in the "Add Task" section to enter your task description.
+  
   -Click the "Add" button to add the task to your list.
   
 ### 5. Editing Tasks:
 
   -Click the pencil icon next to a task to edit its description.
+  
   -Make your changes in the input field and click the "Update" button.
 
 ### 6. Deleting Tasks:
